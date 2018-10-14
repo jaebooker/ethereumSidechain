@@ -31,6 +31,7 @@
     "browser-sync-webpack-plugin": "^2.2.2",
     "google-protobuf": "^3.5.0",
     "phaser-ce": "^2.10.0",
+    "web3": "^1.0.0-beta.36",
     "webfontloader": "^1.6.28"
   }
 }
